@@ -200,7 +200,7 @@
   <!--footer section-->
   <footer>
     <div class="footer-text">
-      <h3>Copyright &copy; 2017. All rigths reserved</h3>
+      <h3>Copyright &copy; 2024. All rigths reserved</h3>
     </div>
     <div class="footer-icons">
       <a href="#"><i class="fa fa-facebook"></i></a>
